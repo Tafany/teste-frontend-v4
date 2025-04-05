@@ -99,8 +99,5 @@ Este projeto demonstra habilidades em:
 
 🗓️ Documento gerado em: 04/04/2025
 
-
-Vídeo da Solução
-Assista ao vídeo explicativo com a demonstração da solução, decisões técnicas e desafios:
-
-https://drive.google.com/file/d/1Pn4TjHcywhx2avjsFzTDvGAnTLY7rHdI/view
+📽️ Vídeo de Apresentação Tafany:
+https://drive.google.com/file/d/1Pn4TjHcywhx2avjsFzTDvGAnTLY7rHdI/view?usp=sharing
